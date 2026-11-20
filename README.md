@@ -1,4 +1,4 @@
-# Task — Java Selenium (Page Object Model)
+# Java Selenium Framework (Page Object Model)
 
 Repository: Saraabdelmaksod/Task
 
