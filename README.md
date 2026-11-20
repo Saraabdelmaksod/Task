@@ -4,22 +4,22 @@ Repository: Saraabdelmaksod/Task
 
 ## Overview
 
-Automated UI tests written in Java using Selenium WebDriver and the Page Object Model (POM) pattern. Tests are designed to be run via Maven (or Gradle) and use a standard structure for pages, tests, and utilities.
+Automated UI tests written in Java using Selenium WebDriver and the Page Object Model (POM) pattern. Tests are designed to be run via Maven and use a standard structure for pages, tests, and utilities.
 
 ## Status
 
 - Author: Sara Abdelmaksod
 - Last updated: 2026-09-01
-- Stack: Java, Selenium WebDriver, JUnit/TestNG, Maven/Gradle, WebDriverManager (recommended)
+- Stack: Java, Selenium WebDriver, JUnit/TestNG, Maven
 
 ## Prerequisites
 
 - Java JDK 11 or newer
-- Maven 3.6+ or Gradle (if project uses Gradle)
+- Maven 3.6+
 - Chrome or Firefox browser installed
 - (Optional) Git
 
-Note: WebDriver binaries can be managed automatically with WebDriverManager; otherwise provide driver executables (chromedriver/geckodriver) on PATH.
+Note: WebDriver binaries can be managed automatically.
 
 ## Project layout (conventional)
 
