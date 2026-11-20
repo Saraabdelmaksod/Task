@@ -1,2 +1,16 @@
 # Project exclude paths
 /SeleniumFrame/target/
+# Reports and build output
+target/
+test-output/
+reports/
+allure-results/
+allure-report/
+extent-reports/
+screenshots/
+logs/
+
+# IDE
+.idea/
+*.iml
+.vscode/
